@@ -1,0 +1,23 @@
+https://www.insee.fr/fr/statistiques/2540004#documentation
+
+Les effectifs des prénoms ne remplissant pas les conditions 1 et 2 sont regroupés (pour chaque sexe et chaque année de naissance) dans un enregistrement dont le champ prénom (PREUSUEL) prend la valeur «_PRENOMS_RARES». Les effectifs des prénoms remplissant la condition 2 mais pas la condition 3 sont regroupés (pour chaque sexe et chaque prénom) dans un enregistrement dont le champ année de naissance (ANNAIS) prend la valeur «XXXX».
+
+
+
+Numery imion, które nie spełniają warunków 1 i 2 są zgrupowane (dla każdej płci i każdego roku urodzenia) w rekordzie, którego pole nazwy (PREUSUALNE) przyjmuje wartość "_PRENOMS_RARES". Liczba imion spełniających warunek 2, ale nie warunek 3, jest zgrupowanych razem (dla każdej płci i każdego imienia) w rekordzie, w którym pole roku urodzenia (ANNAIS) przyjmuje wartość XXXX
+
+
+
+Pour chaque prénom, il est indiqué pour chaque année de naissance (de 1900 à 2015) et chaque sexe, le nombre de personnes inscrites à l'état civil sous ce prénom. Pour le fichier « DPT2015 », la précision est apportée pour chaque département.
+
+Les personnes prises en compte
+Le champ couvre l'ensemble des personnes nées en France (métropole et département d'outre-mer) et enregistrées à l'état civil sur les bulletins de naissance. Les personnes nées à l'étranger sont exclues.
+
+Le champ des prénoms retenus
+Dans les fichiers de l’état civil, en l'occurrence les bulletins de naissance, les différents prénoms sont séparés par une espace (ou blanc). Ainsi deux prénoms séparés par un tiret constituent un seul prénom composé (exemple : Anne-Laure). Le premier prénom simple ou composé figure en début de liste, et c'est celui qui sera retenu après le traitement de la protection de l'anonymat.
+
+Conditions portant sur les prénoms retenus
+1. Sur la période allant de 1900 à 1945, le prénom a été attribué au moins 20 fois à des personnes de sexe féminin et/ou au moins 20 fois à des personnes de sexe masculin
+2. Sur la période allant de 1946 à 2015, le prénom a été attribué au moins 20 fois à des personnes de sexe féminin et/ou au moins 20 fois à des personnes de sexe masculin
+3. Pour une année de naissance donnée, le prénom a été attribué au moins 3 fois à des personnes de sexe féminin ou de sexe masculin
+Les effectifs des prénoms ne remplissant pas les conditions 1 et 2 sont regroupés (pour chaque sexe et chaque année de naissance) dans un enregistrement dont le champ prénom (PREUSUEL) prend la valeur «_PRENOMS_RARES». Les effectifs des prénoms remplissant la condition 2 mais pas la condition 3 sont regroupés (pour chaque sexe et chaque prénom) dans un enregistrement dont le champ année de naissance (ANNAIS) prend la valeur «XXXX».
